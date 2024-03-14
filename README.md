@@ -5,6 +5,8 @@ Go to cloudshell, run the following installing scripts
 python3 -m venv .
 source bin/activate
 python3 -m pip install --upgrade pip
+git clone https://github.com/kuettai/aws-retrieve-quicksight-info.git
+cd aws-retrieve-quicksight-info
 pip install boto3
 pip install numpy
 ```
