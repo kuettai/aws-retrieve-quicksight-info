@@ -7,7 +7,6 @@ source bin/activate
 python3 -m pip install --upgrade pip
 pip install boto3
 pip install numpy
-pip install json
 ```
 
 Setup your AWS information
