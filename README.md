@@ -1,0 +1,1 @@
+# aws-retrieve-quicksight-info
